@@ -1,2 +1,2 @@
-# 3d_nwv
-clone van 3d.utrecht.nl voor NWV
+# Venlo
+clone 3dutrecht voor Venlo
